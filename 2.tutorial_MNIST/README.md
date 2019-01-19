@@ -1,3 +1,6 @@
+<script type="text/javascript"  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
 ## MNIST
 
 MNIST는 간단한 컴퓨터 비전 데이터
