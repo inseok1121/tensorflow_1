@@ -21,10 +21,11 @@ MNIST 데이터는 학습 데이터(mnist.train, 55000), 테스트 데이터(mni
 Softmax Regression은 두 단계로 이뤄져있다.
 
   1. 데이터가 각 클래스에 속한다는 Evidence를 수치적으로 계산
+
     `
-    $$
-      \sqrt{3x-1}+(1+x)^2
-    $$
+        evidence~i~ =
     `
 
   2. 계산한 값을 확률로 변
+
+  \\( x(t)=\frac{-b\pm \sqrt{{b}^{2}-4ac}}{2a} \\)
