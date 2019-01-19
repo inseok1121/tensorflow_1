@@ -28,11 +28,11 @@
 | n    | [D0, D1, .... , Dn-1] | n-D              |
 
 
-###Fetches
+### Fetches
 
 복수의 tensor를 받아 올 수 있다.
 
-###Feeds
+### Feeds
 
 graph의 연산에게 직접 tensor 값을 줄 수 있다. 일반적인 사용방법은 다음과 같다.
 <pre><code>
