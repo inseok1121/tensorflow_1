@@ -24,9 +24,6 @@ MNIST 데이터는 학습 데이터(mnist.train, 55000), 테스트 데이터(mni
 Softmax Regression은 두 단계로 이뤄져있다.
 
   1. 데이터가 각 클래스에 속한다는 Evidence를 수치적으로 계산
-
-    ![evidence](https://github.com/inseok1121/tensorflow_1/blob/master/images/softmax_evidence.png)
+  ![evidence](https://github.com/inseok1121/tensorflow_1/blob/master/images/softmax_evidence.png)
 
   2. 계산한 값을 확률로 변
-
-  \\( x(t)=\frac{-b\pm \sqrt{{b}^{2}-4ac}}{2a} \\)
