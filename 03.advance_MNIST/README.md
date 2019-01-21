@@ -11,11 +11,10 @@
 
   1번과 2번을 위해  filter와 sub-sampling을 거침
 
-    ```
+
     filter
       - Convolution
 
     sub-sampling
       - max-pooling : 영역에서 가장 큰 값 선택
       - average-pooling : 영역 평균 값
-    ```
