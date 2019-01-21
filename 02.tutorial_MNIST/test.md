@@ -31,4 +31,6 @@ Softmax Regression은 두 단계로 이뤄져있다.
 
   2. 계산한 값을 확률로 변
 
-  \\( x(t)=\frac{-b\pm \sqrt{{b}^{2}-4ac}}{2a} \\)
+  $$
+  \frac{n!}{k!(n-k)!} = {n \choose k}
+  $$

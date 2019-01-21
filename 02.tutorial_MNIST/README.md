@@ -25,7 +25,9 @@ Softmax Regression은 두 단계로 이뤄져있다.
 
   1. 데이터가 각 클래스에 속한다는 Evidence를 수치적으로 계산
 
-    ![evidence](../images/softmax_evidence.png)
+    `
+        evidence~i~ =
+    `
 
   2. 계산한 값을 확률로 변
 
