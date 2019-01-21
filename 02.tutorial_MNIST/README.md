@@ -34,7 +34,7 @@ Softmax Regression은 두 단계로 이뤄져있다.
 
       ![evidence](https://github.com/inseok1121/tensorflow_1/blob/master/images/softmax_evidence.png)
 
-      x : 입력값, W : 가중치,  b : 바이어스, j : 입력데이터로 사용된 이미지의 인덱스
+      > x : 입력값, W : 가중치,  b : 바이어스, j : 입력데이터로 사용된 이미지의 인덱스
 
   2. 계산한 값을 확률로 변환
 
