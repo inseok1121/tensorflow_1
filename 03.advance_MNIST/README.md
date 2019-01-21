@@ -1,7 +1,7 @@
 
 ## CNN(Convolution Neural Network)
 
-###과정
+### 과정
 
     1. Feature Extraction
     2. Shift and distortion Invariance
@@ -12,10 +12,10 @@
       1번과 2번을 위해  filter와 sub-sampling을 거침
 
       `
-        #### filter
+        filter
           Convolution
 
-        #### sub-sampling
+        sub-sampling
           - max-pooling : 영역에서 가장 큰 값 선택
           - avearge-pooling : 영역 평균 값
 
